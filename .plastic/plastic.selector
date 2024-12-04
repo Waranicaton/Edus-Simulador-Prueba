@@ -1,0 +1,3 @@
+repository "EDUS-Aprendiendo Ecografia@GPE_Sistemas_Edus_Ecografo@cloud"
+  path "/"
+    smartbranch "/main"
